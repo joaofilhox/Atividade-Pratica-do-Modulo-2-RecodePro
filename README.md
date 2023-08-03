@@ -1,6 +1,6 @@
 # Atividade-Pratica-do-Modulo-2-RecodePro
 
-Prezado professor,
+Prezados monitores,
 
 Informo que o pseudocódigo apresentado foi desenvolvido no site Portugol WebStudio, uma ferramenta online que facilita a escrita e entendimento do algoritmo. Optei por essa plataforma devido a problemas para baixar o VisualG em meu sistema operacional Linux.
 
